@@ -1,2 +1,0 @@
-# Themenetlify
-New project theme
